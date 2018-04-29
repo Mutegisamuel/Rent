@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "84470545882",
+    "firebase_url": "https://rent-24ef4.firebaseio.com",
+    "project_id": "rent-24ef4",
+    "storage_bucket": "rent-24ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84470545882:android:5d4f9ef4fe51d6e8",
+        "android_client_info": {
+          "package_name": "com.example.humungus.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84470545882-frpfmf17botps491j8odf66l7roo2sl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.humungus.rent",
+            "certificate_hash": "cc8135cc9ef08e4b493794e235fb9f71d8dcbb3a"
+          }
+        },
+        {
+          "client_id": "84470545882-9nte3o85va5mduvir49livmdr9nifear.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AEI8LTBKNq5WfM-JHiUrVyw8uDQfpq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84470545882-9nte3o85va5mduvir49livmdr9nifear.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
